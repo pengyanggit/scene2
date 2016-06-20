@@ -5,7 +5,7 @@
   > Created Time: 2016年06月15日 星期三 10时36分26秒
  ************************************************************************/
 
-//second update
+//second update and first update
 
 #include <stdio.h>
 #include <pcap.h>
