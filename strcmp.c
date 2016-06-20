@@ -5,6 +5,8 @@
 	> Created Time: 2016年04月28日 星期四 10时35分24秒
  ************************************************************************/
 
+//ths first update
+
 #include<stdio.h>
 #include<stdlib.h>
 int str_cmp(char *str1,char *str2)
